@@ -1,0 +1,11 @@
+My Week 7 Exercise 1 - Personal Work Record
+Student ID: d3233892
+Date: $(date)
+
+What I did myself:
+- Cloned my own forked repository
+- Ran npm install (updated package-lock.json file)
+- Created Azure Function: kanwar-d3233892
+- Used my existing resource group: kanwar-dev-rg
+- Tested with my host key, got HTTP 202 response
+- All work done by me for my assessment
